@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Abhinandan Gaikwad! 👋<br>🚀 Full-Stack Web Developer | Tech Enthusiast<br>💡 I love solving coding challenges and working on innovative tech projects!<br>🧾 Skilled in Python, JavaScript, Django, MERN Stack.<br>😄 Pronouns: he/him
+Hi, I'm Abhinandan Gaikwad! 👋<br>🚀 Full-Stack Web Developer | Tech Enthusiast<br>💡 I love solving coding challenges and working on innovative tech projects!<br>🧾 Skilled in Python, MySQL, Django, and MERN Stack.<br>😄 Pronouns: he/him
 
 
 ## 🌐 Socials:
